@@ -1,3 +1,7 @@
+1.2.1 / 2014-02-05
+==================
+
+ * add support for complex expressions and implicit getter-style functions
 
 1.2.0 / 2014-02-05
 ==================
